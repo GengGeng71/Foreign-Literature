@@ -33,8 +33,3 @@ over time are not effective because of sealing problems. Interior shutters are s
 A comparison of energy generation alternatives: The energy use patterns can easily be monitored by instrumenting each appliance. Natural gas and electricity are natural choices for the main energy supply. The conversion of the chemical energy in the fuel to heat space and warm water can be done by conventional means or by use of a total energy system such as a Volvo Penta system. With this system, the fuel is used to power a small internal combustion engine, which in turn drives a generator for electrical energy production. Waste heat from the coolant and the exhaust are used to heat water for domestic use and space heating. Excess electricity is fed back into the power grid or stored in batteries. At a future date. it is planned to substitute a fuel cell for the total energy system allowing for a direct comparison of the performance of two advanced systems.
 
 
-
-
-
-
-https://wenku.baidu.com/view/dcaade65fc4ffe473268ab39.html
